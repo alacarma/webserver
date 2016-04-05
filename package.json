@@ -1,0 +1,14 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hw1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ala Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.12.0"
+  }
+}
