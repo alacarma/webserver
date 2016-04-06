@@ -16,7 +16,7 @@ module.exports = class Hotel extends EventEmitter {
 
     }
     decreaseRating(){
-        console.log("The hotel received a negative dislike");
+        console.log("The hotel received a dislike");
         this.hotelLikes--;
         this.emit(eventsConfig.Decrease);
 
